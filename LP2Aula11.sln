@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleBuffer2D", "DoubleBuffer2D\DoubleBuffer2D.csproj", "{05472E58-414D-4F68-9212-8A09369E287C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05472E58-414D-4F68-9212-8A09369E287C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05472E58-414D-4F68-9212-8A09369E287C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05472E58-414D-4F68-9212-8A09369E287C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05472E58-414D-4F68-9212-8A09369E287C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20093A7F-EA99-498D-AF96-7814D561B41B}
+	EndGlobalSection
+EndGlobal
